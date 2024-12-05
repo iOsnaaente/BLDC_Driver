@@ -1,5 +1,8 @@
 # BLDC_Driver
 
+Organizando as ideias aqui (privado por enquanto):
+https://docs.google.com/document/d/1qmZSV-_9FamEIS6TEdoVcDgr9C_HGXN8XMSVh8Ixvi8/edit?tab=t.0
+
 # Pesquisa para Desenvolvimento de Driver de Controle para Motores BLDC
 
 ## Objetivo
